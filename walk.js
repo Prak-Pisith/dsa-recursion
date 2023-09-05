@@ -15,4 +15,4 @@ function walkRecursion(steps) {
     walkRecursion(steps - 1);
 }
 // walkIteration(5);
-walkRecursion(1000000);
+walkRecursion(5);
